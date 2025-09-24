@@ -14,4 +14,11 @@ void main(List<String> args) {
   (String, int) mahasiswa;
   mahasiswa = ('Atthalaric Nero Muchtar', 2341720215);
   print(mahasiswa);
+
+  var mahasiswa2 = ('Atthalaric Nero. M', a: 2341720215, b: true, 'last');
+
+  print(mahasiswa2.$1); // Prints 'Atthalaric Nero. M'
+  print(mahasiswa2.a); // Prints 2341720215
+  print(mahasiswa2.b); // Prints true
+  print(mahasiswa2.$2); // Prints 'last'
 }
