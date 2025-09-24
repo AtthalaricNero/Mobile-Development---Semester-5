@@ -10,4 +10,8 @@ void main(List<String> args) {
   var list3 = [0, ...?list1];
   print(list3);
   print(list3.length);
+
+  var promoActive = false;
+  var nav = ['Home', 'Furniture', 'Plants', if (promoActive) 'Outlet'];
+  print(nav);
 }
