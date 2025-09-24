@@ -9,4 +9,9 @@ void main(List<String> args) {
 
   var record2 = tukar((3, 5));
   print(record2);
+
+  // Record type annotation in a variable declaration:
+  (String, int) mahasiswa;
+  mahasiswa = ('Atthalaric Nero Muchtar', 2341720215);
+  print(mahasiswa);
 }
