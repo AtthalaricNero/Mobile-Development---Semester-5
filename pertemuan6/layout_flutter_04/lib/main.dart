@@ -69,6 +69,20 @@ class MyApp extends StatelessWidget {
       ],
     );
 
+    Widget textSection = Container(
+      padding: const EdgeInsets.all(32),
+      child: const Text(
+        'Batu Malang adalah sebuah kota wisata yang terletak di Provinsi Jawa Timur, Indonesia.'
+        'Kota ini terletak 90 km sebelah barat daya Surabaya atau 15 km sebelah barat laut Malang.'
+        'Batu terkenal dengan keindahan alamnya yang menawan, dengan ketinggian sekitar 700-1.700 meter di atas permukaan laut.'
+        'dan memiliki suhu udara yang sejuk mencapai 15-19 derajat celcius.'
+        'Kota Batu menjadi salah satu destinasi wisata terkemuka di Indonesia.'   
+        '\n\nNama : Atthalaric Nero. M'
+        '\nNim : 2341720215',
+        softWrap: true,
+      ),      
+    );
+
     return MaterialApp(
       title: 'Flutter layout: Atthalaric Nero. M - 2341720215',
       home: Scaffold(
@@ -76,6 +90,7 @@ class MyApp extends StatelessWidget {
         body: Column(children: [
           titleSection,
           buttonSection,
+          textSection,
           ]),
       ),
     );
