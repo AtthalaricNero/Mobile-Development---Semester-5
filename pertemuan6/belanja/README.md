@@ -31,3 +31,7 @@ Langkah 7 : Menambahkan aksi pada ListView
 ![alt text](image8.png)
 
 ## Tugas Praktikum 2
+
+![alt text](image9.png)
+
+![alt text](image10.png)
