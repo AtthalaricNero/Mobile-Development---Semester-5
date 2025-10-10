@@ -3,11 +3,11 @@
 ## Praktikum 1 : Membangun Layout di Flutter
 Langkah 1 : Buat Project Baru
 
-![alt text](/images/image1.png)
+![alt text](image1.png)
 
-Langkah 2 : Buuka file lib/main.dart
+Langkah 2 : Buuka file libmain.dart
 
-![alt text](/images/image2.png)
+![alt text](image2.png)
 
 Langkah 3 : Identifikasi Layout diagram 
 
@@ -21,51 +21,51 @@ Column(
 )
 
 Langkah 4 : Implementasi Tittle Row
-![alt text](/images/image3.png)
+![alt text](image3.png)
 
-![alt text](/images/image4.png)
+![alt text](image4.png)
 
 ## Praktikum 2 : Implementasi Button Row
 
 Langkah 1 : Buat method Column _buildButtonColumn
 
-![alt text](/images/image5.png)
+![alt text](image5.png)
 
 Langkah 2 : Buat widget ButtonSection
-![alt text](/images/image6.png)
+![alt text](image6.png)
 
 Langkah 3 : Tambah Button Section ke Body
-![alt text](/images/image7.png)
+![alt text](image7.png)
 
-![alt text](/images/image8.png)
+![alt text](image8.png)
 
 ## Praktikum 3 : Implementasi Text Section
 
 Langkah 1 : Buat widget textSection
-![alt text](/images/image9.png)
+![alt text](image9.png)
 
 Langkah 2 : Tambahkan variabel text section ke body
-![alt text](/images/image10.png)
+![alt text](image10.png)
 
-![alt text](/images/image11.png)
+![alt text](image11.png)
 
 ## Praktikum 4 : Implementasi Image Section
 
 Langkah 1 : Siapkan aset gambar
 
-![alt text](/images/image12.png)
+![alt text](image12.png)
 
 Langkah 2 : Tambahkan gambar ke body
 
-![alt text](/images/image13.png)
+![alt text](image13.png)
 
 Langkah 3 : Terakhir ubah menjadi ListView
 
-![alt text](/images/image14.png)
+![alt text](image14.png)
 
-![alt text](/images/image15.png)
+![alt text](image15.png)
 
 ## Tugas Praktikum 1
-Silakan implementasikan di project baru "basic_layout_flutter" dengan mengakses sumber ini: https://docs.flutter.dev/codelabs/layout-basics 
+Silakan implementasikan di project baru "basic_layout_flutter" dengan mengakses sumber ini: https:docs.flutter.devcodelabslayout-basics 
 
-![alt text](/images/image16.png)
+![alt text](image16.png)
